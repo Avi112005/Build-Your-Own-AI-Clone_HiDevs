@@ -1,9 +1,31 @@
-# Build Your Own AI Clone
+## 🧪 How to Run the Project
 
-This project is automatically generated.
+### Requirements:
+- Node.js (v18 or above) is used in this project
+- Groq API Key - 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
+- Google Gemini API Key - AIzaSyBEUr9cpuup0zV5hSVQkbGEzpXsAzJnw5M
 
-## Installation
+- .env file setup (if needed)
+Create a .env file in the root directory with the following:
 
-```sh
-pip install -r requirements.txt
+GROQ_API_KEY= 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 
+GEMINI_API_KEY= AIzaSyBEUr9cpuup0zV5hSVQkbGEzpXsAzJnw5M
+
+### Local Setup:
+```bash
+# Clone the repo
+git clone https://github.com/Avi112005/Build-Your-Own-AI-Clone_HiDevs.git
+
+# Install dependencies
+cd Build-Your-Own-AI-Clone_HiDevs
+npm install
+
+# Start development server
+node server.js
 ```
+
+Provide any backend/frontend split or environment setup notes here.
+- Make sure to use Node.js of version 18.0 or above
+- In .env simply paste GROQ_API_KEY= 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  GEMINI_API_KEY= AIzaSyBEUr9cpuup0zV5hSVQkbGEzpXsAzJnw5M
+ 
+---
