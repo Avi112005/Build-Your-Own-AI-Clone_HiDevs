@@ -23,9 +23,3 @@ npm install
 # Start development server
 node server.js
 ```
-
-Provide any backend/frontend split or environment setup notes here.
-- Make sure to use Node.js of version 18.0 or above
-- In .env simply paste GROQ_API_KEY= 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  GEMINI_API_KEY= AIzaSyBEUr9cpuup0zV5hSVQkbGEzpXsAzJnw5M
- 
----
